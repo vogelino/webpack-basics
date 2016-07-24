@@ -1,0 +1,30 @@
+{
+  "name": "webpack-basics",
+  "version": "1.0.0",
+  "description": "Learning the basics of webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vogelino/webpack-basics.git"
+  },
+  "keywords": [
+    "webpack",
+    "tutorial",
+    "basics",
+    "javascript",
+    "babel",
+    "es2015",
+    "mobule",
+    "bundler",
+    "production"
+  ],
+  "author": "Lucas Vogel <contact@vogelino.com> (http://vogelino.com/)",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/vogelino/webpack-basics/issues"
+  },
+  "homepage": "https://github.com/vogelino/webpack-basics#readme"
+}
